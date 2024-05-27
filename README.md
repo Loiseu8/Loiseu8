@@ -2,13 +2,18 @@
 
 ## About Me
 
-- I am a budding software developer currently enrolled in the Coding Black Females (CBF) bootcamp focused on Java Development. My expected graduation date is in October 2024. I am eager to apply my skills in real-world projects and contribute to the tech community. Here’s a bit more about me:
+- I am a budding software developer currently enrolled in the Coding Black Females (CBF) bootcamp. My expected graduation date is in October 2024. I am eager to apply my skills in real-world projects and contribute to the tech community. Here’s a bit more about me:
 
 - 🌱 I’m currently learning **Java Development**.
+
 - 🔭 I hope to learn the real world applications of Java, working on building various projects including web applications, APIs, and more.
+
 - 👯 I’m looking to collaborate on open-source projects and innovative startups.
-- 💬 Ask me about Java and software development best practices.
+
+- 💬 Ask me about Java and software development best practices --- OR maybe wait until just a bit later😅 
+
 - 📫 How to reach me: [loisoladejo791@gmail.com] 
+
 - ⚡ Fun fact: My favorite quote is "Stay on your path, Sylvia Plath" by Lana Del Rey.
 
 ## My Skills
