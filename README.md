@@ -1,4 +1,4 @@
-# Hi there, I'm Toluwanimi <or just Tolu as in 'Toe-Loo'!> 👋
+# Hi there, I'm Toluwanimi <or just Tolu as in 'Toe-Lu'!> 👋
 
 ## About Me
 
