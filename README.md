@@ -8,8 +8,6 @@
 - 🔭 I hope to learn the real world applications of Java, building various projects including web applications, APIs, and more.
 - 👯 I’m looking to collaborate on open-source projects and innovative startups.
 - 💬 Ask me about Java and software development best practices --- OR maybe wait until just a bit later😅 
-- 📫 How to reach me: [loisoladejo791@gmail.com] 
-
 - ⚡ Fun fact: My favorite quote is "Stay on your path, Sylvia Plath" by Lana Del Rey.
 
 ## My Skills 💻💻  
