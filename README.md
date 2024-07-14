@@ -16,7 +16,7 @@
 
 Here are some technologies and tools I have been working with:
 
-- **Languages:** Java, Python, Javascript
+- **Languages:** Java, Python, Javascript, HTML, CSS
 - **Tools:** Git
 
 ## Contact Me 💌💌 
