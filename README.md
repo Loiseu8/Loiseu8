@@ -8,9 +8,9 @@ Here’s a bit more about me:
 
 🌟 I am now open to job opportunities where I can apply my skills, continue to grow, and contribute to impactful projects.
 
-🌱 I’m continuing to upskill, focusing on building and improving **NEUROVESTi**, an interactive financial news sentiment dashboard.
+🌱 I’m continuing to upskill, focusing on building **NEUROVESTi**, an interactive financial news sentiment dashboard.
 
-🔭 My current learning goals include advancing my knowledge in **React**, **JavaScript**, **Tailwind CSS**, writing **APIs**, and leveraging **AI technologies** to enhance projects.
+🔭 My current learning goals include advancing my knowledge in **React**, **JavaScript**, **Tailwind CSS**, and writing **APIs**.
 
 👯 I’m looking to collaborate on open-source projects, innovative startups, or any exciting ventures where I can make a meaningful contribution.
 
@@ -26,7 +26,6 @@ Here are some technologies and tools I’ve been working with:
 
 ### Languages:
 - Java
-- Python
 - JavaScript
 - TypeScript
 - HTML
