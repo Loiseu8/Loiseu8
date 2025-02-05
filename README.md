@@ -26,6 +26,7 @@ Here are some technologies and tools I’ve been working with:
 
 ### Languages:
 - Java
+- Python
 - JavaScript
 - TypeScript
 - HTML
